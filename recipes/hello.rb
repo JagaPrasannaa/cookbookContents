@@ -1,3 +1,3 @@
 package 'git' do
-  action [:install]
+  action [:install :start]
 end
